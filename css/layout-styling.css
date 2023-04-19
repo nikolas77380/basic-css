@@ -138,6 +138,10 @@ button {
     margin: 0;
     padding: 0;
 }
+.about_box a {
+    display: inline-block;
+    float: left;
+}
 /**-- heading section --**/
 .main_heading {
     text-align: center;
