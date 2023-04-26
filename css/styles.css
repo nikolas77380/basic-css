@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.item {
+  padding: 1rem;
+  margin: 1rem;
+  border: 3px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.item > img {
+  width: 200px;
+}
+.item > a {
+  margin-top: 10px;
+  background-color: lightgrey;
+}
