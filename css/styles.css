@@ -5,8 +5,8 @@
   align-content: center;
 }
 .item {
-  padding: 1.5rem;
-  margin: 1rem;
+  padding: 1rem;
+  margin: 1.5rem;
   border: 3px solid lightgray;
   display: flex;
   flex-direction: column;
