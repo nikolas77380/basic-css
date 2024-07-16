@@ -284,6 +284,19 @@ a.readmore_bt {
     opacity: 1;
     visibility: visible;
 }
+.titlepage a {
+    font-size: 16px;
+    border: #000 solid 1px;
+    background-color: #000;
+    color: #fff;
+    padding: 9px 0px;
+    max-width: 171px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 30px;
+    float: left;
+}
 .top_awro {
     background: #ee4a79 none repeat scroll 0 0;
     cursor: pointer;
